@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Clippy</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.clippy.app</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Clippy</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Clippy needs accessibility access to register global keyboard shortcuts.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Clippy</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Clippy uses your microphone for voice commands and to include your voice in screen clips.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Clippy needs screen recording access to capture your last few seconds of activity.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Clippy uses speech recognition to trigger clips with your voice.</string>
+</dict>
+</plist>

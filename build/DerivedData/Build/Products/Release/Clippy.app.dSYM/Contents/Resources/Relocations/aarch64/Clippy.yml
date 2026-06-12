@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Products/Release/Clippy.app/Contents/MacOS/Clippy'
+relocations:     []
+...

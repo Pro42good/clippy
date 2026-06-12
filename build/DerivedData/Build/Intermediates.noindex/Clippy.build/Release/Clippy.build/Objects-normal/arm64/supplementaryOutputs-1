@@ -1,0 +1,12 @@
+{
+  "/Users/joshclark/Projects/Clippy/Clippy/Services/AppCoordinator.swift" : {
+    "abi-baseline-json" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy.abi.json",
+    "const-values" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy-primary.swiftconstvalues",
+    "dependencies" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy-primary.d",
+    "diagnostics" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy-primary.dia",
+    "objc-header" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy-Swift.h",
+    "swiftdoc" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy.swiftdoc",
+    "swiftmodule" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy.swiftmodule",
+    "swiftsourceinfo" : "/Users/joshclark/Projects/Clippy/build/DerivedData/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/arm64/Clippy.swiftsourceinfo"
+  }
+}

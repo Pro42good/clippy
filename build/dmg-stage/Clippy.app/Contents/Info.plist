@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>25E246</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Clippy</string>
+	<key>CFBundleExecutable</key>
+	<string>Clippy</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.clippy.app</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Clippy</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>25F70</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>26.5</string>
+	<key>DTSDKBuild</key>
+	<string>25F70</string>
+	<key>DTSDKName</key>
+	<string>macosx26.5</string>
+	<key>DTXcode</key>
+	<string>2650</string>
+	<key>DTXcodeBuild</key>
+	<string>17F42</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Clippy needs accessibility access to register global keyboard shortcuts.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Clippy</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Clippy uses your microphone for voice commands and to include your voice in screen clips.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Clippy needs screen recording access to capture your last few seconds of activity.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Clippy uses speech recognition to trigger clips with your voice.</string>
+</dict>
+</plist>
